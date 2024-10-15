@@ -1,0 +1,3 @@
+ "ConnectionStrings": {
+   "cs": "server=DESKTOP-7VQ7LA6 ;Database=db17; Trusted_connection=True; TrustServerCertificate=True"
+ }
